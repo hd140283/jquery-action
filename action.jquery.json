@@ -1,0 +1,8 @@
+{
+    "name": "action",
+    "version": "1.0.0",
+    "title": "jQuery Action",
+    "author": {"name": "Taiki Watanabe"},
+    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+    "dependencies": {"jquery": ">=1.5"}
+}
