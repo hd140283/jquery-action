@@ -1,3 +1,12 @@
+/*!
+ * jQuery Action 1.0.0
+ * http://plugins.jquery.com/action/
+ *
+ * Copyright 2013 Taiki Watanabe
+ * Released under the MIT license
+ * https://raw.github.com/hd140283/jquery-action/master/LICENSE
+ *
+ */
 (function($) {
     var actions = {
         init: {},

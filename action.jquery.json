@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "title": "jQuery Action",
     "author": {"name": "Taiki Watanabe"},
-    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
-    "dependencies": {"jquery": ">=1.5"}
+    "licenses": [{"type": "MIT", "url": "https://raw.github.com/hd140283/jquery-action/master/LICENSE"}],
+    "dependencies": {"jquery": ">=1.5"},
+    "description": "It is possible to use easily the Observer pattern.",
+    "keywords": ["observer", "listener", "deferred", "events"],
+    "download": "http://hd140283.github.io/jquery-action-1.0.0.min.js",
+    "bugs": "https://github.com/hd140283/jquery-action/issues"
 }
